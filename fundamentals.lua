@@ -1,5 +1,9 @@
 message = 'hello'
 chicken = 10
+random_string = [[Hi there.
+Me name is Mark.]]
+local greeting = random_string .. " It's nice to meet you!"
+print(greeting)
 
 result = chicken + 1
 
